@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EduJobs MERN
 
 Monorepo with React + Tailwind client and Express + Mongoose server.
@@ -39,3 +40,6 @@ Scripts
 
 
 
+=======
+# edujobs-mern
+>>>>>>> ed1234e6e4ffdec6e1de9fbe5a2727f4c4828227
